@@ -1,6 +1,8 @@
 # Eyes-on-the-Ground-Challenge-Classifier
 A CNN model for drought detection in Africa.
 
+## Project Status: In Progress
+
 Training accuracy : 83%
 Validation accuracy : 83%
 
